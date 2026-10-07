@@ -1,6 +1,6 @@
 # Intro to Quantum and Qiskit: hands-on notebooks
 
-**IntelligenceX 2026 · National University of Singapore**
+**Qiskit Fallfest APAC University**
 Instructor: Vishal Bajpe
 
 These are the notebooks and exercises for the hands-on half of the *Introduction to Quantum and Qiskit* session. The first hour is slides; the remaining two hours are spent in this folder. Everything runs on the free **IBM Quantum Open Plan** and Qiskit 2.5.
